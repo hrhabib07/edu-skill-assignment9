@@ -12,7 +12,7 @@ const About = () => {
     return (
 <Container>
 <img style={{padding:"50px"}} src="/eduSkill-logo.png" alt="" />
-        <Row xs={2} md={4} className="g-4">
+        <Row xs={2} md={6} className="g-4">
           {
                 tutors.map(tutor => <Tutor key={tutor.id} tutor={tutor}></Tutor>)
             }

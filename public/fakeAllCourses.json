@@ -54,7 +54,43 @@
           "courseRatting": "4.2",
           "description": "This emphasis on minimalism is quickly becoming the industry norm. It helps with performance and development expenses, in addition to the aesthetic appeal. The fewer pieces that must be developed and tested, the faster your project may be released to the market. The less amount of code used in minimal sites also aids."
         },
-        {
+          {
+            "courseName": "JavaScript",
+            "thumbnail": "https://www.iqmotion.com/wp-content/uploads/2021/09/Mask-Group-1.png",
+            "courseCode": "wh0714",
+            "instructor": "Sami-Al-Islam",
+            "student": "3238",
+            "courseRatting": "4.5",
+            "description": "While some industry professionals regard AI as a hoax, others are concerned that technology may eventually replace their professions. Both perspectives are very extreme. Instead, AI should be viewed as a helpful assistant by developers and designers.businesses are turning to artificial intelligence."
+          },
+          {
+            "courseName": "App Development",
+            "thumbnail": "https://www.iqmotion.com/wp-content/uploads/2021/06/14.jpg",
+            "courseCode": "wh09145",
+            "instructor": "Abbasur Rahman",
+            "student": "3475",
+            "courseRatting": "4.4",
+            "description": "Artificial Design Intelligence (ADI), on the other hand, can speed up the web design process because it can complete the process entirely on its own. As a result, businesses may get to market faster, save money, and simply iterate based on customer needs thanks to this technology."
+          },
+          {
+            "courseName": "Ethical Hacking",
+            "thumbnail": "https://www.iqmotion.com/wp-content/uploads/2021/07/Web-Development-Agency-1-1.png",
+            "courseCode": "wh47147",
+            "instructor": "Mamunur Rashid",
+            "student": "3135",
+            "courseRatting": "4.2",
+            "description": "Aside from automated designs, some website builders, such as Squarespace, are incorporating AI more subtly into their products. Squarespace’s artificial intelligence examines how users interact with web components. This teaches the AI to recognize the best designs for each function, which Squarespace then recommends to users when they’re deciding on a design."
+          },
+          {
+            "courseName": "Blockchain Engineer",
+            "thumbnail": "https://www.iqmotion.com/wp-content/uploads/2021/08/Mask-Group-1.png",
+            "courseCode": "wh07197",
+            "instructor": "Abdur Rahman",
+            "student": "1557",
+            "courseRatting": "4.1",
+            "description": "If you want to start a business, you will need a professional website for promotion and online recognition. You will need to include images and some information on your website. These are all on the front-end side of the web development process  which Squarespace then recommends to users when they’re deciding on a design."
+          },
+          {
             "courseName": "SEO expert",
             "thumbnail": "https://www.iqmotion.com/wp-content/uploads/2021/06/6.jpg",
             "courseCode": "wh0705",
