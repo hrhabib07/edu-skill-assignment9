@@ -11,7 +11,7 @@ const Tutors = () => {
   },[])
     return (
         <Container>
-           <h2 style={{padding:"50px"}}>Our Tutors</h2>
+           <div><h2 style={{padding:"50px"}}>Our Tutors</h2></div>
         <Row xs={1} md={2} className="g-4">
           {
                 tutors.map(tutor => <Tutor key={tutor.id} tutor={tutor}></Tutor>)

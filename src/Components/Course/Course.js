@@ -12,7 +12,7 @@ const Course = props => {
           <Card.Body>
             <Card.Title>{courseName}</Card.Title>
             <Card.Text>
-              <p>by <b>{instructor}</b></p>
+             by <b>{instructor}</b>
             </Card.Text>
             <Rating
             readonly
@@ -21,7 +21,7 @@ const Course = props => {
             fullSymbol="fas fa-star icon-color"
             /> <span><b>{courseRatting}/5</b></span>
           </Card.Body>
-          <span><i class="fas fa-users user-color"> </i> <b>{ student }</b></span>
+          <span><i className="fas fa-users user-color"> </i> <b>{ student }</b></span>
         </Card>
       </Col>
     );

@@ -11,7 +11,7 @@ const Home = () => {
     },[])
     return (
         <div>
-            <h2 style={{padding:"50px"}}>Our courses</h2>
+            <div><h2 style={{padding:"50px"}}>Our courses</h2></div>
             <Container>
             <Row xs={1} md={2} className="g-3">
             {

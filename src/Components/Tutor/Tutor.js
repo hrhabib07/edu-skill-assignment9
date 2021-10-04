@@ -3,8 +3,7 @@ import { Card, Col } from 'react-bootstrap';
 import Rating from 'react-rating';
 
 const Tutor = props => {
-    const {name, age, education, rating, profile, expertAt, tutionFee} = props.tutor;
-    console.log(props);
+    const {name,  education, rating, profile, expertAt, tutionFee} = props.tutor;
     return (
         <Col>
       <Card>

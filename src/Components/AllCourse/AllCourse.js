@@ -11,8 +11,10 @@ const AllCourse = () => {
     },[])
     return (
         <Container>
+            <div>
             <h2 style={{padding:"50px"}}>Our All courses</h2>
-            <Row xs={1} md={2} className="g-3">
+            </div>
+            <Row xs={1} md={3} className="g-3">
             {
                 allCourses.map(course => <Courses 
                     key={course.courseCode}
