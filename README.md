@@ -1,10 +1,10 @@
 
 ## Documentation
 
-Live site of my project is [EduSkill](https://my-assignment-project.netlify.app/home)
+Live site of my project is [EduSkill](https://my-assignment-project.netlify.app/)
 
   
-# Top Class Programmer of Bangladesh.
+# EduSkill the best learning Platform online.
 
 This website is made with simple-react. I have used data from random resources that are available in Internet for this projects. I have tried to make this site more good looking to see that's why I used some images that looks good. 
 
