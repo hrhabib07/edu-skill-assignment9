@@ -1,26 +1,26 @@
 
 ## Documentation
 
-Live site of my project is [best programmer in BD](https://my-superhero.netlify.app/)
+Live site of my project is [EduSkill](https://my-assignment-project.netlify.app/home)
 
   
 # Top Class Programmer of Bangladesh.
 
-This website is made with simple-react. I have used the information of programming hero team in this project and I collected data from facebook group. I have tried to add all of the admins and modarator's information of our private group but some information are missing like image link was missing on some moderator's profile. 
+This website is made with simple-react. I have used data from random resources that are available in Internet for this projects. I have tried to make this site more good looking to see that's why I used some images that looks good. 
 
 
 ## FAQ
 
 #### Is your site responsive?
 
-No my site is not responsive. I know how to make a websire responsive. But this project is made for learning purpase therefore I didn't make it responsive.
+Yes my site is a little bit responsive for mobile devices. I know how to make a websire responsive. But this project is made for learning purpose therefore I didn't make it responsive well.
 
 #### Is your site Dynamic?
 
-Yes it is Dynamic.
+Yes this site is a Dynamic site.
 
-#### can I make a team from this website?
+#### can I make a hire tutors from this website?
 
-No. I didn't make team option responsive cause I make it for learning purpase. 
+No, This website is made only for learning purposes. 
 
   
