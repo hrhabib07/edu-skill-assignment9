@@ -8,7 +8,7 @@ const Header = () => {
         <div className='header-container'>
             <Navbar variant="dark">
             <Container className="nav-container">
-                <Navbar.Brand href="/home">
+                <Link to="/home">
                  <img
                     alt=""
                     src="/eduSkill-logo.png"
@@ -16,7 +16,7 @@ const Header = () => {
                     height="50"
                     className="d-inline-block align-top"
                 />
-                </Navbar.Brand>
+                </Link>
       
             <Link to="/home">Home</Link>
             <Link to="/courses">Courses</Link>
