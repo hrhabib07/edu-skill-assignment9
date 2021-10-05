@@ -2,7 +2,7 @@ import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 import Rating from 'react-rating';
 import './Tutor.css'
-
+// this compo will show us the information of our tutors
 const Tutor = props => {
     const {name,  education, rating, profile, expertAt, tutionFee} = props.tutor;
     return (

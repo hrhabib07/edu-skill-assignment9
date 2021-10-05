@@ -37,15 +37,6 @@
       "description": "If a website takes an excessive amount of time to load, you will most likely hit the “back” button and seek something else. Similarly, if you’re filling out a form that won’t submit because of sluggish speed, you’ll give up eventually. Luckily, you can use Google Speed Insights to measure your page speed\n            Faster."
     },
     {
-      "courseName": "Social media promoting",
-      "thumbnail": "https://www.iqmotion.com/wp-content/uploads/2021/06/4.jpg",
-      "courseCode": "wh0706",
-      "instructor": "Jara Khan",
-      "student": "2678",
-      "courseRatting": "4.3",
-      "description": "Over 60% of Google Searches come from mobile devices. Search engines, of course, recognizes this and ranks websites accordingly. For example, Google has stated that responsive design is its preferred method of mobile optimization.Your website will continuously give excellent results if you keep your website."
-    },
-    {
       "courseName": "Graphics Designing",
       "thumbnail": "https://www.iqmotion.com/wp-content/uploads/2021/06/8.jpg",
       "courseCode": "wh0707",
@@ -53,15 +44,6 @@
       "student": "3678",
       "courseRatting": "4.2",
       "description": "This emphasis on minimalism is quickly becoming the industry norm. It helps with performance and development expenses, in addition to the aesthetic appeal. The fewer pieces that must be developed and tested, the faster your project may be released to the market. The less amount of code used in minimal sites also aids."
-    },
-    {
-      "courseName": "JavaScript",
-      "thumbnail": "https://www.iqmotion.com/wp-content/uploads/2021/09/Mask-Group-1.png",
-      "courseCode": "wh0714",
-      "instructor": "Sami-Al-Islam",
-      "student": "3238",
-      "courseRatting": "4.5",
-      "description": "While some industry professionals regard AI as a hoax, others are concerned that technology may eventually replace their professions. Both perspectives are very extreme. Instead, AI should be viewed as a helpful assistant by developers and designers.businesses are turning to artificial intelligence."
     },
     {
       "courseName": "App Development",

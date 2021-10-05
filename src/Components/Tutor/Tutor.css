@@ -1,7 +1,6 @@
 .profile-images {
     width: 75%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0px auto;
     border-radius: 50%;
     border: 2px solid silver;
 }

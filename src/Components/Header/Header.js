@@ -2,7 +2,7 @@ import React from 'react';
 import { Button, Container, FormControl, InputGroup, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import './Header.css'
-
+// this component will show main header of our pages
 const Header = () => {
     return (
         <div className='header-container'>

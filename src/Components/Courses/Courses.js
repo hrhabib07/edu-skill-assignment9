@@ -4,7 +4,7 @@ import Rating from 'react-rating';
 
 const Courses = props => {
     const {courseName, courseRatting, thumbnail, instructor, student, description} = props.course;
-    // console.log(props);
+    // it will show the courses on the home page
     return (
         <Col>
         <Card>

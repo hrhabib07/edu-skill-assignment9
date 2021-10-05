@@ -1,5 +1,5 @@
 import React from 'react';
-
+// this component will show the footer of our website
 const Footer = () => {
     return (
         <div className="my-5">

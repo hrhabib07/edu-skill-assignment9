@@ -2,7 +2,7 @@ import React from 'react';
 import {  Card, Col} from 'react-bootstrap';
 import Rating from 'react-rating';
 import './Course.css'
-
+// this component will return the single card when it will called
 const Course = props => {
     const {courseName, courseRatting, thumbnail, instructor, student} = props.course;
     return (

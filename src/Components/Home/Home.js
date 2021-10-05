@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { Container, Row } from 'react-bootstrap';
+import {  NavLink } from 'react-router-dom';
 import Course from '../Course/Course';
-
+// this will show the default or home page of our ui
 const Home = () => {
     const [courses, setCourses] = useState([]);
     useEffect(()=>{
@@ -11,9 +12,9 @@ const Home = () => {
     },[])
     return (
         <div>
-            <div><h2 style={{padding:"50px"}}>Our courses</h2></div>
+            <h2 style={{padding:"50px"}}> <NavLink style={{textDecoration:"none",color:"blueviolet"}} to="./courses">Our courses</NavLink> </h2>
             <Container>
-            <Row xs={1} md={5} className="g-3">
+            <Row xs={1} md={4} className="g-3">
             {
                 courses.map(course => <Course 
                     key={course.courseCode}

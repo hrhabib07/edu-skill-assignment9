@@ -14,6 +14,7 @@ const About = () => {
 <img style={{padding:"50px"}} src="/eduSkill-logo.png" alt="" />
         <Row xs={2} md={6} className="g-4">
           {
+            // this will display the tutors in the ui
                 tutors.map(tutor => <Tutor key={tutor.id} tutor={tutor}></Tutor>)
             }
         </Row>
